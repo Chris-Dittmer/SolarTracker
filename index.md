@@ -1,14 +1,11 @@
 # Solar Tracker
 My project is the Solar Tracker, a device that can rotate a solar panel to the position where the sunlight is brightest. This was achieved through photoresistors placed around the sides of the device and two servos for rotating and tilting the solar panels.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Engineer** | **Education** | **Area of Interest** |
 |:--:|:--:|:--:|:--:|
-| Christopher D | Carrboro High School | Civil/Environmental Engineering | Senior
+| Christopher D | Senior, Carrboro High School | Civil/Environmental Engineering 
 
-
-![Headstone Image](SolarShieldIntro.jpg)
-<img src="Cropped.jpg" alt="drawing" height="323" width="323"/>  <img src="SolarShieldSide.jpg" alt="drawing" height="323" width="323"/>
-
+![Headstone Image](SolarTracker.jpg)
 
 # Final Milestone
 After sucessfuly installing the solar panel array, rebuilding the base to be stronger, and reworking the code, I completed my version of the Solar Tracker. Over the course, my biggest challenges were (1) how it would only rotate between two angles, (2) the extra sensors were unnecessary and draining power, (3) multiple code versions had to be tested and changed, (4) the solar panel array was too large for the original setup, and (5) the original servo motors were not strong enough to hold the weight of the solar panel array. 
