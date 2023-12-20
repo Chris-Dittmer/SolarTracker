@@ -35,7 +35,7 @@ After assembling the servos together and situating the photoresistors on the sid
 # Schematics 
 Here is the self-made circuitry schematic: (Made with TinkerCad)
 
-![Headstone Image](solartrackerschematic.jpg)
+![Headstone Image](Schematic.jpg)
 
  
 # Code
